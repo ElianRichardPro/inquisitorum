@@ -1,0 +1,3 @@
+displayName = Inqusitorum
+author = XomoS &amp; Asanned
+version = 0.1
